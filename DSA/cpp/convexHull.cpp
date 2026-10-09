@@ -39,7 +39,7 @@ void quickSort2D(vector<Point>& points, int low, int high){
 }
 
 long long crossProduct(Point a, Point b, Point c){
-    return 1LL * (b.x - a.x)*(c.y-b.y) - 1LL*(b.y - a.y)*(c.x - a.x);
+    return 1LL * (b.x - a.x)*(c.y-b.y) - 1LL*(b.y - a.y)*(c.x - b.x);
 }
 
 vector<Point> convexHull(vector<Point>& points){
