@@ -1,0 +1,33 @@
+[node2] Started on port 5002 with Genesis 000606778d...
+[node2] Chain summary: B0(000606)
+[node2] Block 1 received from node1
+[node2] Hash valid
+[node2] Previous hash valid
+[node2] Proof-of-work valid
+[node2] Block appended
+[node2] Mining Block 2...
+[node2] Block mined: 000e40424f...
+[node2] Broadcasting Block 2 to node1, node3
+[node2] Chain summary: B0(000606) -> B1(000e10) -> B2(000e40)
+[node2] Tampered Block 1 Tx 0: 'A->B:10' -> 'A->B:1000'
+[node2] Local chain INVALID after tamper
+[node2] Local height: 2 (Valid: False)
+[node2] Peer (node1) height: 2
+[node2] Candidate chain valid
+[node2] Peer (node3) height: 2
+[node2] Candidate chain valid
+[node2] Local chain replaced
+[node2] Local chain VALID
+[node2] Block 3 received from node1
+[node2] Hash valid
+[node2] Previous hash valid
+[node2] Proof-of-work valid
+[node2] Block appended
+[node2] Injected 2 invalid blocks for T8 testing (New local height: 5)
+[node2] Local height: 5 (Valid: False)
+[node2] Peer (node1) height: 3
+[node2] Candidate chain valid
+[node2] Peer (node3) height: 3
+[node2] Candidate chain valid
+[node2] Local chain replaced
+[node2] Chain summary: B0(000606) -> B1(000e10) -> B2(000e40) -> B3(00089b)

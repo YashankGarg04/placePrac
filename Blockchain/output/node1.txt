@@ -1,0 +1,29 @@
+[node1] Started on port 5001 with Genesis 000606778d...
+[node1] Chain summary: B0(000606)
+[node1] Mining Block 1...
+[node1] Block mined: 000e10228d...
+[node1] Broadcasting Block 1 to node2, node3
+[node1] Block 2 received from node2
+[node1] Hash valid
+[node1] Previous hash valid
+[node1] Proof-of-work valid
+[node1] Block appended
+[node1] Chain summary: B0(000606) -> B1(000e10) -> B2(000e40)
+[node1] Local chain VALID
+[node1] Mining Block 3...
+[node1] Block mined: 00089b8ef9...
+[node1] Broadcasting Block 3 to node2, node3
+[node1] Peer node3 (localhost:5003) unreachable during broadcast
+[node1] Local height: 3 (Valid: True)
+[node1] Peer (node2) height: 5
+[node1] Candidate chain from node2 INVALID - rejected
+[node1] Peer (node3) height: 3
+[node1] Candidate chain valid
+[node1] Local chain retained (no longer valid chain found)
+[node1] Reset local chain to Genesis (B0)
+[node1] Local height: 0 (Valid: True)
+[node1] Peer (node2) height: 3
+[node1] Candidate chain valid
+[node1] Peer (node3) height: 3
+[node1] Candidate chain valid
+[node1] Local chain replaced

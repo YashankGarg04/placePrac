@@ -1,0 +1,23 @@
+[node3] Started on port 5003 with Genesis 000606778d...
+[node3] Chain summary: B0(000606)
+[node3] Block 1 received from node1
+[node3] Hash valid
+[node3] Previous hash valid
+[node3] Proof-of-work valid
+[node3] Block appended
+[node3] Block 2 received from node2
+[node3] Hash valid
+[node3] Previous hash valid
+[node3] Proof-of-work valid
+[node3] Block appended
+[node3] Chain summary: B0(000606) -> B1(000e10) -> B2(000e40)
+[node3] Local chain VALID
+[node3] Stopping node...
+[node3] Started on port 5003 with Genesis 000606778d...
+[node3] Local height: 2 (Valid: True)
+[node3] Peer (node1) height: 3
+[node3] Candidate chain valid
+[node3] Peer (node2) height: 3
+[node3] Candidate chain valid
+[node3] Local chain replaced
+[node3] Chain summary: B0(000606) -> B1(000e10) -> B2(000e40) -> B3(00089b)
